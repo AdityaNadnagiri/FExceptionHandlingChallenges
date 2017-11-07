@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package bExcepbionHandlingCalculator;
+package bjava.excepbionhandlingcalculator;

@@ -1,4 +1,4 @@
-package aExceptionHandlingTryCatch;
+package ajava.exceptionhandlingtrycatch;
 
 import java.util.Scanner;
 

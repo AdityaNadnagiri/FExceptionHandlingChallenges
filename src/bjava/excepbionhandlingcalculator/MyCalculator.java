@@ -1,4 +1,4 @@
-package bExcepbionHandlingCalculator;
+package bjava.excepbionhandlingcalculator;
 
 class MyCalculator {
 	public static int pow(int n, int p) throws Exception {

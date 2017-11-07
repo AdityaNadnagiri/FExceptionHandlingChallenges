@@ -7,4 +7,4 @@
  * @email  nandagiri.aditya@gmail.com
  * 
  */
-package aExceptionHandlingTryCatch;
+package ajava.exceptionhandlingtrycatch;

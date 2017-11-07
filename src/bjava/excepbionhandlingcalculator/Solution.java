@@ -1,4 +1,4 @@
-package bExcepbionHandlingCalculator;
+package bjava.excepbionhandlingcalculator;
 
 import java.util.Scanner;
 
